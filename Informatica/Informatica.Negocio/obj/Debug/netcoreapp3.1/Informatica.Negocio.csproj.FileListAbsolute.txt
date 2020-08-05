@@ -84,7 +84,6 @@ C:\Users\Christian\source\repos\Informatica\Informatica.Negocio\bin\Debug\netcor
 C:\Users\Christian\source\repos\Informatica\Informatica.Negocio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Christian\source\repos\Informatica\Informatica.Negocio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Christian\source\repos\Informatica\Informatica.Negocio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Christian\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.csprojAssemblyReference.cache
 C:\Users\Christian\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.AssemblyInfoInputs.cache
 C:\Users\Christian\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.AssemblyInfo.cs
 C:\Users\Christian\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.csproj.CoreCompileInputs.cache
@@ -92,3 +91,4 @@ C:\Users\Christian\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcor
 C:\Users\Christian\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.dll
 C:\Users\Christian\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.pdb
 C:\Users\Christian\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.genruntimeconfig.cache
+C:\Users\Christian\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.csprojAssemblyReference.cache
