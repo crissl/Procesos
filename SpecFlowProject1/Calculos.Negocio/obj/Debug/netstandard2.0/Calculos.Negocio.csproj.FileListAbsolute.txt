@@ -1,0 +1,9 @@
+C:\Users\Christian\source\repos\SpecFlowProject1\Calculos.Negocio\bin\Debug\netstandard2.0\Calculos.Negocio.deps.json
+C:\Users\Christian\source\repos\SpecFlowProject1\Calculos.Negocio\bin\Debug\netstandard2.0\Calculos.Negocio.dll
+C:\Users\Christian\source\repos\SpecFlowProject1\Calculos.Negocio\bin\Debug\netstandard2.0\Calculos.Negocio.pdb
+C:\Users\Christian\source\repos\SpecFlowProject1\Calculos.Negocio\obj\Debug\netstandard2.0\Calculos.Negocio.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\SpecFlowProject1\Calculos.Negocio\obj\Debug\netstandard2.0\Calculos.Negocio.AssemblyInfo.cs
+C:\Users\Christian\source\repos\SpecFlowProject1\Calculos.Negocio\obj\Debug\netstandard2.0\Calculos.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\SpecFlowProject1\Calculos.Negocio\obj\Debug\netstandard2.0\Calculos.Negocio.dll
+C:\Users\Christian\source\repos\SpecFlowProject1\Calculos.Negocio\obj\Debug\netstandard2.0\Calculos.Negocio.pdb
+C:\Users\Christian\source\repos\SpecFlowProject1\Calculos.Negocio\obj\Debug\netstandard2.0\Calculos.Negocio.csprojAssemblyReference.cache

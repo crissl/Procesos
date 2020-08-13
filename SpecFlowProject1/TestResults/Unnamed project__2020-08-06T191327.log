@@ -1,0 +1,184 @@
+﻿2020-08-06T19:13:27.5304149-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-08-06T19:13:27.5309534-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.3.41 in Framework netcore31 in x64 mode execution started
+2020-08-06T19:13:27.5309613-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-08-06T19:13:27.5515204-05:00;VSTestExecutionThread;Info;Current UserName: 'Christian', MachineName: 'DESKTOP-G7U6GFH'
+2020-08-06T19:13:27.7128544-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-08-06T19:13:27.7131650-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Christian\source\repos\SpecFlowProject1\TestResults" (default)
+2020-08-06T19:13:27.7132712-05:00;VSTestExecutionThread;Info;Profile: 
+2020-08-06T19:13:27.9378290-05:00;VSTestExecutionThread;Info;Log file path: C:\Users\Christian\source\repos\SpecFlowProject1\TestResults\Unnamed project__2020-08-06T191327.log
+2020-08-06T19:13:27.9481786-05:00;Thread#13;Info;Checking activation
+2020-08-06T19:13:30.9103709-05:00;Thread#13;Info;Activated.
+2020-08-06T19:13:30.9109130-05:00;Thread#13;Info;Activation check completed
+2020-08-06T19:13:30.9110203-05:00;Thread#13;Info;Starting test run
+2020-08-06T19:13:30.9737125-05:00;Thread#13;Info;Discovering target: Default
+2020-08-06T19:13:30.9739481-05:00;Thread#13;Info;Discovering tests from assembly: C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-08-06T19:13:31.3914460-05:00;Thread#13;Info;Discovered tests from assembly: C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-08-06T19:13:31.3930778-05:00:Test Suite Dump
+2020-08-06T19:13:31.3957051-05:00:#0: Unnamed project/ - 
+2020-08-06T19:13:31.3957528-05:00:#1: Default - 
+2020-08-06T19:13:31.3957577-05:00:#2: SpecFlowProject1 - 
+2020-08-06T19:13:31.3957641-05:00:#3: Aprobado - 
+2020-08-06T19:13:31.3957689-05:00:#6: Calculadora - 
+2020-08-06T19:13:31.3957709-05:00:#8: Calculator - 
+2020-08-06T19:13:31.3970947-05:00:#4: Calificacion mayor igual  a 7 - TestAssembly:SpecFlowProject1/Feature:Aprobado/Scenario:Calificacion+mayor+igual++a+7
+2020-08-06T19:13:31.3971338-05:00:#5: Calificacion es 6 - TestAssembly:SpecFlowProject1/Feature:Aprobado/Scenario:Calificacion+es+6
+2020-08-06T19:13:31.3978203-05:00:#7: Añadir dos números - TestAssembly:SpecFlowProject1/Feature:Calculadora/Scenario:A%c3%b1adir+dos+n%c3%bameros
+2020-08-06T19:13:31.3978389-05:00:#9: Add two numbers - TestAssembly:SpecFlowProject1/Feature:Calculator/Scenario:Add+two+numbers
+2020-08-06T19:13:31.3978884-05:00:End: Test Suite Dump
+2020-08-06T19:13:31.4443013-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-06T19:13:31.4466282-05:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-08-06T19:13:31.4467455-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-08-06T19:13:31.4505358-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-06T19:13:31.4505530-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-08-06T19:13:31.4505589-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-08-06T19:13:31.4505655-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-08-06T19:13:31.4516654-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-08-06T19:13:31.4533460-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-06T19:13:31.4558781-05:00:Thread #0: creating new test thread executor for SpecFlowProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-08-06T19:13:31.4585402-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-08-06T19:13:31.4587690-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-08-06T19:13:31.5449447-05:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-08-06T19:13:31.5468964-05:00:starting Out Of Process Executor
+2020-08-06T19:13:31.6182494-05:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-06T19:13:31.6471518-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-08-06T19:13:31.6471701-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-08-06T19:13:31.6482520-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:13:31.6486011-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-08-06T19:13:31.6487402-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-08-06T19:13:31.6487802-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:13:31.7245002-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-06T19:13:31.7245236-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-06T19:13:31.7825820-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-06T19:13:31.7827168-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-06T19:13:31.7830011-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-06T19:13:31.7830086-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-06T19:13:31.7830789-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-06T19:13:31.7831313-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-06T19:13:31.7832993-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-06T19:13:31.7833129-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-06T19:13:31.7833984-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-06T19:13:31.7834646-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-06T19:13:31.8329065-05:00:Starting callback TCP Rpc server
+2020-08-06T19:13:31.9687285-05:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-08-06T19:13:32.0008563-05:00:Started callback TCP Rpc server on port 32768
+2020-08-06T19:13:32.0008785-05:00:Starting logger TCP Rpc server
+2020-08-06T19:13:32.0053430-05:00:Asynchronously starting background TCP Rpc Server on port 32769
+2020-08-06T19:13:32.0055157-05:00:Started logger TCP Rpc server on port 32769
+2020-08-06T19:13:32.4089079-05:00;Thread#13;Info;Executor full path resolved: C:\Program Files\dotnet\dotnet.exe
+2020-08-06T19:13:32.4120858-05:00;Thread#13;Info;Starting SpecFlow+ Runner executor process with attached debugger...
+2020-08-06T19:13:32.6005110-05:00;Thread#13;Info;Successfully started SpecFlow+ Runner executor process
+2020-08-06T19:13:32.6145731-05:00:Out of Process Executor 612 started
+2020-08-06T19:13:32.6145857-05:00:Waiting for endpoint
+2020-08-06T19:13:34.2139422-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es-ES, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-06T19:13:34.2140345-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2020-08-06T19:13:34.2140385-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2020-08-06T19:13:34.2140482-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:13:34.2140506-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2020-08-06T19:13:34.2141145-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2020-08-06T19:13:34.2141618-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:13:34.2151964-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-06T19:13:34.2152141-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-06T19:13:34.2156390-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-06T19:13:34.2157214-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-06T19:13:34.2159217-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-06T19:13:34.2159317-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-06T19:13:34.2159926-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-06T19:13:34.2160687-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-06T19:13:34.2162899-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-06T19:13:34.2162958-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-06T19:13:34.2163596-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-06T19:13:34.2164174-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-06T19:13:34.2176193-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-06T19:13:34.2188812-05:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-06T19:13:34.2189033-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-08-06T19:13:34.2189062-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-08-06T19:13:34.2189149-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:13:34.2189175-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-08-06T19:13:34.2189764-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-08-06T19:13:34.2190355-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:13:34.2199914-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-06T19:13:34.2200131-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-06T19:13:34.2200977-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-06T19:13:34.2201563-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-06T19:13:34.2203336-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-06T19:13:34.2203417-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-06T19:13:34.2204036-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-06T19:13:34.2204615-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-06T19:13:34.2206481-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-06T19:13:34.2206559-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-06T19:13:34.2207234-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-06T19:13:34.2207823-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-06T19:13:35.5090516-05:00:Remote executor port received: 32770
+2020-08-06T19:13:35.5094808-05:00:Creating executor TCP client on port 32770
+2020-08-06T19:13:35.5099639-05:00:Created executor TCP client on port 32770
+2020-08-06T19:13:35.5099739-05:00:Connecting to remote executor TCP server
+2020-08-06T19:13:35.5110512-05:00:Connected remote executor TCP server
+2020-08-06T19:13:35.5115331-05:00:trying to connect to Out of Process Executor the 1 attempt
+2020-08-06T19:13:35.5115411-05:00:Connection to Out of Process Executor established in the 1 attempt
+2020-08-06T19:13:35.8521475-05:00:2020-08-06T19:13:35.8499934-05:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll on test thread #0
+2020-08-06T19:13:35.8593303-05:00:Endpoint 612 started
+2020-08-06T19:13:35.8817609-05:00:2020-08-06T19:13:35.8808677-05:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-08-06T19:13:36.0294686-05:00:2020-08-06T19:13:36.0287376-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-08-06T19:13:36.0335641-05:00:2020-08-06T19:13:36.0328466-05:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-08-06T19:13:36.0379053-05:00:2020-08-06T19:13:36.0371072-05:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Christian\.nuget\packages\specflow\3.3.30\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-08-06T19:13:36.3605870-05:00:2020-08-06T19:13:36.3587749-05:00:Thread#0:T:-> Loading plugin C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-08-06T19:13:36.5941648-05:00:2020-08-06T19:13:36.5925166-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-08-06T19:13:36.6033482-05:00:2020-08-06T19:13:36.6015907-05:00:Thread#0:T:-> Using default config
+2020-08-06T19:13:36.6204674-05:00:2020-08-06T19:13:36.6186828-05:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-08-06T19:13:36.6235681-05:00:2020-08-06T19:13:36.6221599-05:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-08-06T19:13:36.6277574-05:00:2020-08-06T19:13:36.6256210-05:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Christian\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-08-06T19:13:36.7686039-05:00:2020-08-06T19:13:36.7664147-05:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-08-06T19:13:36.7704195-05:00:2020-08-06T19:13:36.7698793-05:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-08-06T19:13:36.7720352-05:00:2020-08-06T19:13:36.7714524-05:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Christian\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-08-06T19:13:36.9544777-05:00:2020-08-06T19:13:36.9529348-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-06T19:13:36.9573167-05:00:2020-08-06T19:13:36.9556942-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-08-06T19:13:36.9590050-05:00:2020-08-06T19:13:36.9584138-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Christian\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-08-06T19:13:37.1351379-05:00:2020-08-06T19:13:37.1321253-05:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-08-06T19:13:37.1398051-05:00:2020-08-06T19:13:37.1380797-05:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-08-06T19:13:37.1438494-05:00:2020-08-06T19:13:37.1421717-05:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\Christian\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-08-06T19:13:37.6583417-05:00:Thread#0: Test #4/0 is started on thread #0
+2020-08-06T19:13:37.6683870-05:00:2020-08-06T19:13:37.6677147-05:00:Assembly resolving Gherkin, Version=6.0.0.0, Culture=neutral, PublicKeyToken=86496cfa5b4a5851
+2020-08-06T19:13:37.6696183-05:00:2020-08-06T19:13:37.6691174-05:00:[AssemblyCache] Trying to resolve 'Gherkin' from .deps.json file
+2020-08-06T19:13:37.6710455-05:00:2020-08-06T19:13:37.6705349-05:00:[AssemblyCache] Resolved 'Gherkin' to 'C:\Users\Christian\.nuget\packages\gherkin\6.0.0\lib\netstandard2.0\Gherkin.dll'
+2020-08-06T19:13:38.0612266-05:00:2020-08-06T19:13:38.0600341-05:00:Thread#0:B:Dado que que estoy logeado
+2020-08-06T19:13:38.1149255-05:00:2020-08-06T19:13:38.1138226-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:13:38.1172342-05:00:2020-08-06T19:13:38.1161659-05:00:Thread#0:T:        [Given(@"que que estoy logeado")]
+2020-08-06T19:13:38.1188184-05:00:2020-08-06T19:13:38.1182195-05:00:Thread#0:T:        public void DadoQueQueEstoyLogeado()
+2020-08-06T19:13:38.1199462-05:00:2020-08-06T19:13:38.1194415-05:00:Thread#0:T:        {
+2020-08-06T19:13:38.1209379-05:00:2020-08-06T19:13:38.1205410-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:13:38.1218629-05:00:2020-08-06T19:13:38.1214590-05:00:Thread#0:T:        }
+2020-08-06T19:13:38.1243711-05:00:2020-08-06T19:13:38.1238739-05:00:Thread#0:B:Y tengo el perfil de docente
+2020-08-06T19:13:38.1270546-05:00:2020-08-06T19:13:38.1265928-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:13:38.1280454-05:00:2020-08-06T19:13:38.1276304-05:00:Thread#0:T:        [Given(@"tengo el perfil de docente")]
+2020-08-06T19:13:38.1290152-05:00:2020-08-06T19:13:38.1286300-05:00:Thread#0:T:        public void DadoTengoElPerfilDeDocente()
+2020-08-06T19:13:38.1300844-05:00:2020-08-06T19:13:38.1295490-05:00:Thread#0:T:        {
+2020-08-06T19:13:38.1310666-05:00:2020-08-06T19:13:38.1306710-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:13:38.1322598-05:00:2020-08-06T19:13:38.1317607-05:00:Thread#0:T:        }
+2020-08-06T19:13:38.1334767-05:00:2020-08-06T19:13:38.1330586-05:00:Thread#0:B:Y el estudiante es "Paul"
+2020-08-06T19:13:38.1401186-05:00:2020-08-06T19:13:38.1394111-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:13:38.1414032-05:00:2020-08-06T19:13:38.1408289-05:00:Thread#0:T:        [Given(@"el estudiante es ""(.*)""")]
+2020-08-06T19:13:38.1425968-05:00:2020-08-06T19:13:38.1420473-05:00:Thread#0:T:        public void DadoElEstudianteEs(string paul)
+2020-08-06T19:13:38.1436859-05:00:2020-08-06T19:13:38.1432004-05:00:Thread#0:T:        {
+2020-08-06T19:13:38.1447090-05:00:2020-08-06T19:13:38.1442154-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:13:38.1456903-05:00:2020-08-06T19:13:38.1452145-05:00:Thread#0:T:        }
+2020-08-06T19:13:38.1470155-05:00:2020-08-06T19:13:38.1465709-05:00:Thread#0:B:Y la nota es 7
+2020-08-06T19:13:38.1532160-05:00:2020-08-06T19:13:38.1524025-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:13:38.1590529-05:00:2020-08-06T19:13:38.1542108-05:00:Thread#0:T:        [Given(@"la nota es (.*)")]
+2020-08-06T19:13:38.1604778-05:00:2020-08-06T19:13:38.1598280-05:00:Thread#0:T:        public void DadoLaNotaEs(int p0)
+2020-08-06T19:13:38.1616801-05:00:2020-08-06T19:13:38.1611270-05:00:Thread#0:T:        {
+2020-08-06T19:13:38.1628846-05:00:2020-08-06T19:13:38.1623516-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:13:38.1641331-05:00:2020-08-06T19:13:38.1634306-05:00:Thread#0:T:        }
+2020-08-06T19:13:38.1661835-05:00:2020-08-06T19:13:38.1655228-05:00:Thread#0:B:Cuando aprueba
+2020-08-06T19:13:38.1689305-05:00:2020-08-06T19:13:38.1683735-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:13:38.1701359-05:00:2020-08-06T19:13:38.1695789-05:00:Thread#0:T:        [When(@"aprueba")]
+2020-08-06T19:13:38.1713992-05:00:2020-08-06T19:13:38.1708591-05:00:Thread#0:T:        public void CuandoAprueba()
+2020-08-06T19:13:38.1724728-05:00:2020-08-06T19:13:38.1719983-05:00:Thread#0:T:        {
+2020-08-06T19:13:38.1735860-05:00:2020-08-06T19:13:38.1730665-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:13:38.1747371-05:00:2020-08-06T19:13:38.1742061-05:00:Thread#0:T:        }
+2020-08-06T19:13:38.1765613-05:00:2020-08-06T19:13:38.1760261-05:00:Thread#0:B:Entonces el estudiante  es promovido
+2020-08-06T19:13:38.1801337-05:00:2020-08-06T19:13:38.1786716-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:13:38.1832103-05:00:2020-08-06T19:13:38.1812616-05:00:Thread#0:T:        [Then(@"el estudiante  es promovido")]
+2020-08-06T19:13:38.1845741-05:00:2020-08-06T19:13:38.1839811-05:00:Thread#0:T:        public void EntoncesElEstudianteEsPromovido()
+2020-08-06T19:13:38.1857752-05:00:2020-08-06T19:13:38.1852748-05:00:Thread#0:T:        {
+2020-08-06T19:13:38.1870620-05:00:2020-08-06T19:13:38.1864845-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:13:38.1882039-05:00:2020-08-06T19:13:38.1877106-05:00:Thread#0:T:        }

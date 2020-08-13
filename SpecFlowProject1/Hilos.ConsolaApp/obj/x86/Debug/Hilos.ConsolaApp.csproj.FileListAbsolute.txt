@@ -1,0 +1,14 @@
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.ConsolaApp\obj\x86\Debug\Hilos.ConsolaApp.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.ConsolaApp\obj\x86\Debug\Workflow1.g.xaml
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.ConsolaApp\obj\x86\Debug\Hilos.ConsolaApp_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.ConsolaApp\obj\x86\Debug\_Hilos.ConsolaApp.g.cs
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.ConsolaApp\obj\x86\Debug\Workflow1.g.cs
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.ConsolaApp\obj\x86\Debug\Hilos.ConsolaApp_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.ConsolaApp\obj\x86\Debug\Hilos.ConsolaApp.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.ConsolaApp\obj\x86\Debug\Hilos.ConsolaApp.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.ConsolaApp\obj\x86\Debug\Hilos.ConsolaApp.csproj.FileListAbsolute.txt
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.ConsolaApp\obj\x86\Debug\Hilos.ConsolaApp.csproj.XamlPass2Flag.txt
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.ConsolaApp\obj\x86\Debug\Hilos.ConsolaApp.dll
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.ConsolaApp\obj\x86\Debug\Hilos.ConsolaApp.pdb
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.ConsolaApp\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.ConsolaApp\obj\x86\Debug\Hilos.ConsolaApp.csproj.CoreCompileInputs.cache

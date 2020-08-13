@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fCdUgPB/MbO0yQlOqqyClhl+3K9vgO4aYzxbRMpIbuCBJYGwtgIhwTH3Bu33GcpW2+5MInmq1bICFK7VvSf4LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Christian\\source\\repos\\SpecFlowProject1\\Calculo.Negocio\\Calculo.Negocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

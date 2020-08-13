@@ -1,0 +1,13 @@
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.Consola.App\obj\Debug\netcoreapp3.1\Hilos.Consola.App.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.Consola.App\obj\Debug\netcoreapp3.1\Hilos.Consola.App.AssemblyInfo.cs
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.Consola.App\obj\Debug\netcoreapp3.1\Hilos.Consola.App.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.Consola.App\obj\Debug\netcoreapp3.1\Hilos.Consola.App.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.Consola.App\bin\Debug\netcoreapp3.1\Hilos.Consola.App.exe
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.Consola.App\bin\Debug\netcoreapp3.1\Hilos.Consola.App.deps.json
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.Consola.App\bin\Debug\netcoreapp3.1\Hilos.Consola.App.runtimeconfig.json
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.Consola.App\bin\Debug\netcoreapp3.1\Hilos.Consola.App.runtimeconfig.dev.json
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.Consola.App\bin\Debug\netcoreapp3.1\Hilos.Consola.App.dll
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.Consola.App\bin\Debug\netcoreapp3.1\Hilos.Consola.App.pdb
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.Consola.App\obj\Debug\netcoreapp3.1\Hilos.Consola.App.dll
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.Consola.App\obj\Debug\netcoreapp3.1\Hilos.Consola.App.pdb
+C:\Users\Christian\source\repos\SpecFlowProject1\Hilos.Consola.App\obj\Debug\netcoreapp3.1\Hilos.Consola.App.genruntimeconfig.cache

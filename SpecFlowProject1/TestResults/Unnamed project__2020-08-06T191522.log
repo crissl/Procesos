@@ -1,0 +1,551 @@
+﻿2020-08-06T19:15:22.3798054-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-08-06T19:15:22.3800011-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.3.41 in Framework netcore31 in x64 mode execution started
+2020-08-06T19:15:22.3800039-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-08-06T19:15:22.3825689-05:00;VSTestExecutionThread;Info;Current UserName: 'Christian', MachineName: 'DESKTOP-G7U6GFH'
+2020-08-06T19:15:22.4126590-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-08-06T19:15:22.4128512-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Christian\source\repos\SpecFlowProject1\TestResults" (default)
+2020-08-06T19:15:22.4129001-05:00;VSTestExecutionThread;Info;Profile: 
+2020-08-06T19:15:22.4628182-05:00;VSTestExecutionThread;Info;Log file path: C:\Users\Christian\source\repos\SpecFlowProject1\TestResults\Unnamed project__2020-08-06T191522.log
+2020-08-06T19:15:22.4678093-05:00;Thread#12;Info;Checking activation
+2020-08-06T19:15:22.5610436-05:00;Thread#12;Info;Activated.
+2020-08-06T19:15:22.5612847-05:00;Thread#12;Info;Activation check completed
+2020-08-06T19:15:22.5613711-05:00;Thread#12;Info;Starting test run
+2020-08-06T19:15:22.6483359-05:00;Thread#12;Info;Discovering target: Default
+2020-08-06T19:15:22.6485081-05:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-08-06T19:15:22.7415189-05:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-08-06T19:15:22.7445356-05:00:Test Suite Dump
+2020-08-06T19:15:22.7464363-05:00:#0: Unnamed project/ - 
+2020-08-06T19:15:22.7464552-05:00:#1: Default - 
+2020-08-06T19:15:22.7464575-05:00:#2: SpecFlowProject1 - 
+2020-08-06T19:15:22.7464592-05:00:#3: Aprobado - 
+2020-08-06T19:15:22.7464608-05:00:#6: Calculadora - 
+2020-08-06T19:15:22.7464621-05:00:#8: Calculator - 
+2020-08-06T19:15:22.7477504-05:00:#4: Calificacion mayor igual  a 7 - TestAssembly:SpecFlowProject1/Feature:Aprobado/Scenario:Calificacion+mayor+igual++a+7
+2020-08-06T19:15:22.7478571-05:00:#5: Calificacion es 6 - TestAssembly:SpecFlowProject1/Feature:Aprobado/Scenario:Calificacion+es+6
+2020-08-06T19:15:22.7486382-05:00:#7: Añadir dos números - TestAssembly:SpecFlowProject1/Feature:Calculadora/Scenario:A%c3%b1adir+dos+n%c3%bameros
+2020-08-06T19:15:22.7486651-05:00:#9: Add two numbers - TestAssembly:SpecFlowProject1/Feature:Calculator/Scenario:Add+two+numbers
+2020-08-06T19:15:22.7487076-05:00:End: Test Suite Dump
+2020-08-06T19:15:22.7680089-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-06T19:15:22.7697368-05:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-08-06T19:15:22.7698373-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-08-06T19:15:22.7728782-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-06T19:15:22.7728916-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-08-06T19:15:22.7728934-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-08-06T19:15:22.7728959-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-08-06T19:15:22.7736156-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-08-06T19:15:22.7754464-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-06T19:15:22.7777562-05:00:Thread #0: creating new test thread executor for SpecFlowProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-08-06T19:15:22.7800602-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-08-06T19:15:22.7802706-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-08-06T19:15:22.7827157-05:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-08-06T19:15:22.7844835-05:00:starting Out Of Process Executor
+2020-08-06T19:15:22.7860689-05:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-06T19:15:22.7887164-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-08-06T19:15:22.7887353-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-08-06T19:15:22.7897571-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:15:22.7901196-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-08-06T19:15:22.7903091-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-08-06T19:15:22.7903651-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:15:22.7973670-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-06T19:15:22.7973824-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-06T19:15:22.7974470-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-06T19:15:22.7974818-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-06T19:15:22.7976130-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-06T19:15:22.7976187-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-06T19:15:22.7976589-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-06T19:15:22.7976909-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-06T19:15:22.7979210-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-06T19:15:22.7979402-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-06T19:15:22.7980137-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-06T19:15:22.7980722-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-06T19:15:22.8003172-05:00:Starting callback TCP Rpc server
+2020-08-06T19:15:22.8172336-05:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-08-06T19:15:22.8172897-05:00:Started callback TCP Rpc server on port 32768
+2020-08-06T19:15:22.8172943-05:00:Starting logger TCP Rpc server
+2020-08-06T19:15:22.8193366-05:00:Asynchronously starting background TCP Rpc Server on port 32769
+2020-08-06T19:15:22.8193574-05:00:Started logger TCP Rpc server on port 32769
+2020-08-06T19:15:22.9026203-05:00:Executing test executor at 'dotnet' 'exec "C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 6584 --uniqueId "2020-08-06T191522" --outputFolder "C:\Users\Christian\source\repos\SpecFlowProject1\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:15:22.9105596-05:00:Executor with PID 15392 has been started successfully.
+2020-08-06T19:15:22.9136413-05:00:Out of Process Executor 15392 started
+2020-08-06T19:15:22.9136568-05:00:Waiting for endpoint
+2020-08-06T19:15:23.2790661-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es-ES, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-06T19:15:23.2790856-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2020-08-06T19:15:23.2790889-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2020-08-06T19:15:23.2791025-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:15:23.2791053-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2020-08-06T19:15:23.2791660-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2020-08-06T19:15:23.2792248-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:15:23.2801227-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-06T19:15:23.2801390-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-06T19:15:23.2802214-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-06T19:15:23.2802761-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-06T19:15:23.2804388-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-06T19:15:23.2804534-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-06T19:15:23.2805244-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-06T19:15:23.2805793-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-06T19:15:23.2807815-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-06T19:15:23.2807914-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-06T19:15:23.2808635-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-06T19:15:23.2809293-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-06T19:15:23.2818529-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-06T19:15:23.2827307-05:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-06T19:15:23.2827458-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-08-06T19:15:23.2827486-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-08-06T19:15:23.2827534-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:15:23.2827555-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-08-06T19:15:23.2828155-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-08-06T19:15:23.2828824-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:15:23.2835877-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-06T19:15:23.2836026-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-06T19:15:23.2837132-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-06T19:15:23.2837800-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-06T19:15:23.2839369-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-06T19:15:23.2839446-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-06T19:15:23.2840177-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-06T19:15:23.2840802-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-06T19:15:23.2842475-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-06T19:15:23.2842547-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-06T19:15:23.2843343-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-06T19:15:23.2843934-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-06T19:15:24.4518559-05:00:Remote executor port received: 32770
+2020-08-06T19:15:24.4524768-05:00:Creating executor TCP client on port 32770
+2020-08-06T19:15:24.4531745-05:00:Created executor TCP client on port 32770
+2020-08-06T19:15:24.4531858-05:00:Connecting to remote executor TCP server
+2020-08-06T19:15:24.4545399-05:00:Connected remote executor TCP server
+2020-08-06T19:15:24.4548866-05:00:trying to connect to Out of Process Executor the 1 attempt
+2020-08-06T19:15:24.4549031-05:00:Connection to Out of Process Executor established in the 1 attempt
+2020-08-06T19:15:24.6202010-05:00:2020-08-06T19:15:24.6190017-05:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll on test thread #0
+2020-08-06T19:15:24.6258131-05:00:Endpoint 15392 started
+2020-08-06T19:15:24.6449186-05:00:2020-08-06T19:15:24.6445253-05:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-08-06T19:15:24.7839480-05:00:2020-08-06T19:15:24.7835698-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-08-06T19:15:24.7868899-05:00:2020-08-06T19:15:24.7865829-05:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-08-06T19:15:24.7901035-05:00:2020-08-06T19:15:24.7897219-05:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Christian\.nuget\packages\specflow\3.3.30\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-08-06T19:15:24.8987386-05:00:2020-08-06T19:15:24.8983461-05:00:Thread#0:T:-> Loading plugin C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-08-06T19:15:24.9016401-05:00:2020-08-06T19:15:24.9004406-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-08-06T19:15:24.9072751-05:00:2020-08-06T19:15:24.9062006-05:00:Thread#0:T:-> Using default config
+2020-08-06T19:15:24.9194053-05:00:2020-08-06T19:15:24.9181870-05:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-08-06T19:15:24.9215495-05:00:2020-08-06T19:15:24.9204323-05:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-08-06T19:15:24.9241379-05:00:2020-08-06T19:15:24.9227025-05:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Christian\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-08-06T19:15:24.9278557-05:00:2020-08-06T19:15:24.9267067-05:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-08-06T19:15:24.9296381-05:00:2020-08-06T19:15:24.9286389-05:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-08-06T19:15:24.9314581-05:00:2020-08-06T19:15:24.9306684-05:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Christian\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-08-06T19:15:24.9436068-05:00:2020-08-06T19:15:24.9426829-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-06T19:15:24.9448347-05:00:2020-08-06T19:15:24.9441695-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-08-06T19:15:24.9462923-05:00:2020-08-06T19:15:24.9456805-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Christian\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-08-06T19:15:24.9786418-05:00:2020-08-06T19:15:24.9776806-05:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-08-06T19:15:24.9792329-05:00:2020-08-06T19:15:24.9789640-05:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-08-06T19:15:24.9798210-05:00:2020-08-06T19:15:24.9795888-05:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\Christian\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-08-06T19:15:25.1827903-05:00:Thread#0: Test #4/0 is started on thread #0
+2020-08-06T19:15:25.1898215-05:00:2020-08-06T19:15:25.1892162-05:00:Assembly resolving Gherkin, Version=6.0.0.0, Culture=neutral, PublicKeyToken=86496cfa5b4a5851
+2020-08-06T19:15:25.1905097-05:00:2020-08-06T19:15:25.1901223-05:00:[AssemblyCache] Trying to resolve 'Gherkin' from .deps.json file
+2020-08-06T19:15:25.1921924-05:00:2020-08-06T19:15:25.1911305-05:00:[AssemblyCache] Resolved 'Gherkin' to 'C:\Users\Christian\.nuget\packages\gherkin\6.0.0\lib\netstandard2.0\Gherkin.dll'
+2020-08-06T19:15:25.2537811-05:00:2020-08-06T19:15:25.2534353-05:00:Thread#0:B:Dado que que estoy logeado
+2020-08-06T19:15:25.2808288-05:00:2020-08-06T19:15:25.2805041-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.2812923-05:00:2020-08-06T19:15:25.2810838-05:00:Thread#0:T:        [Given(@"que que estoy logeado")]
+2020-08-06T19:15:25.2816178-05:00:2020-08-06T19:15:25.2814435-05:00:Thread#0:T:        public void DadoQueQueEstoyLogeado()
+2020-08-06T19:15:25.2819360-05:00:2020-08-06T19:15:25.2817623-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.2822618-05:00:2020-08-06T19:15:25.2820865-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.2825874-05:00:2020-08-06T19:15:25.2824210-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.2840062-05:00:2020-08-06T19:15:25.2837467-05:00:Thread#0:B:Y tengo el perfil de docente
+2020-08-06T19:15:25.2859105-05:00:2020-08-06T19:15:25.2856455-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.2862850-05:00:2020-08-06T19:15:25.2860730-05:00:Thread#0:T:        [Given(@"tengo el perfil de docente")]
+2020-08-06T19:15:25.2866430-05:00:2020-08-06T19:15:25.2864677-05:00:Thread#0:T:        public void DadoTengoElPerfilDeDocente()
+2020-08-06T19:15:25.2869493-05:00:2020-08-06T19:15:25.2868214-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.2872264-05:00:2020-08-06T19:15:25.2870886-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.2875740-05:00:2020-08-06T19:15:25.2873887-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.2917759-05:00:2020-08-06T19:15:25.2878367-05:00:Thread#0:B:Y el estudiante es "Paul"
+2020-08-06T19:15:25.2980857-05:00:2020-08-06T19:15:25.2976971-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.2985105-05:00:2020-08-06T19:15:25.2983064-05:00:Thread#0:T:        [Given(@"el estudiante es ""(.*)""")]
+2020-08-06T19:15:25.2988252-05:00:2020-08-06T19:15:25.2986652-05:00:Thread#0:T:        public void DadoElEstudianteEs(string paul)
+2020-08-06T19:15:25.2991317-05:00:2020-08-06T19:15:25.2989746-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.2994429-05:00:2020-08-06T19:15:25.2992858-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.2997451-05:00:2020-08-06T19:15:25.2996003-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.3001420-05:00:2020-08-06T19:15:25.2999871-05:00:Thread#0:B:Y la nota es 7
+2020-08-06T19:15:25.3019609-05:00:2020-08-06T19:15:25.3017674-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.3022613-05:00:2020-08-06T19:15:25.3021130-05:00:Thread#0:T:        [Given(@"la nota es (.*)")]
+2020-08-06T19:15:25.3026319-05:00:2020-08-06T19:15:25.3024871-05:00:Thread#0:T:        public void DadoLaNotaEs(int p0)
+2020-08-06T19:15:25.3029114-05:00:2020-08-06T19:15:25.3027736-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.3031798-05:00:2020-08-06T19:15:25.3030482-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.3034827-05:00:2020-08-06T19:15:25.3033180-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.3041624-05:00:2020-08-06T19:15:25.3040019-05:00:Thread#0:B:Cuando aprueba
+2020-08-06T19:15:25.3087872-05:00:2020-08-06T19:15:25.3084353-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.3092211-05:00:2020-08-06T19:15:25.3090170-05:00:Thread#0:T:        [When(@"aprueba")]
+2020-08-06T19:15:25.3095486-05:00:2020-08-06T19:15:25.3093899-05:00:Thread#0:T:        public void CuandoAprueba()
+2020-08-06T19:15:25.3098427-05:00:2020-08-06T19:15:25.3096969-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.3101100-05:00:2020-08-06T19:15:25.3099842-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.3104276-05:00:2020-08-06T19:15:25.3102585-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.3110972-05:00:2020-08-06T19:15:25.3109321-05:00:Thread#0:B:Entonces el estudiante  es promovido
+2020-08-06T19:15:25.3128444-05:00:2020-08-06T19:15:25.3126480-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.3131566-05:00:2020-08-06T19:15:25.3129999-05:00:Thread#0:T:        [Then(@"el estudiante  es promovido")]
+2020-08-06T19:15:25.3134739-05:00:2020-08-06T19:15:25.3133137-05:00:Thread#0:T:        public void EntoncesElEstudianteEsPromovido()
+2020-08-06T19:15:25.3137478-05:00:2020-08-06T19:15:25.3136171-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.3140113-05:00:2020-08-06T19:15:25.3138883-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.3142961-05:00:2020-08-06T19:15:25.3141580-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.3716031-05:00:2020-08-06T19:15:25.3712655-05:00:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2020-08-06T19:15:25.3720159-05:00:2020-08-06T19:15:25.3718177-05:00:Thread#0:T:using System;
+2020-08-06T19:15:25.3723905-05:00:2020-08-06T19:15:25.3721789-05:00:Thread#0:T:using TechTalk.SpecFlow;
+2020-08-06T19:15:25.3728153-05:00:2020-08-06T19:15:25.3725865-05:00:Thread#0:T:namespace MyNamespace
+2020-08-06T19:15:25.3731635-05:00:2020-08-06T19:15:25.3729779-05:00:Thread#0:T:{
+2020-08-06T19:15:25.3747695-05:00:2020-08-06T19:15:25.3734002-05:00:Thread#0:T:    [Binding]
+2020-08-06T19:15:25.3753766-05:00:2020-08-06T19:15:25.3750932-05:00:Thread#0:T:    public class StepDefinitions
+2020-08-06T19:15:25.3757565-05:00:2020-08-06T19:15:25.3755655-05:00:Thread#0:T:    {
+2020-08-06T19:15:25.3760789-05:00:2020-08-06T19:15:25.3759095-05:00:Thread#0:T:        private readonly ScenarioContext _scenarioContext;
+2020-08-06T19:15:25.3763542-05:00:2020-08-06T19:15:25.3762005-05:00:Thread#0:T:        public StepDefinitions(ScenarioContext scenarioContext)
+2020-08-06T19:15:25.3766258-05:00:2020-08-06T19:15:25.3764754-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.3768977-05:00:2020-08-06T19:15:25.3767430-05:00:Thread#0:T:            _scenarioContext = scenarioContext;
+2020-08-06T19:15:25.3772022-05:00:2020-08-06T19:15:25.3770171-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.3775232-05:00:2020-08-06T19:15:25.3773419-05:00:Thread#0:T:        [Given(@"que que estoy logeado")]
+2020-08-06T19:15:25.3777932-05:00:2020-08-06T19:15:25.3776474-05:00:Thread#0:T:        public void DadoQueQueEstoyLogeado()
+2020-08-06T19:15:25.3780662-05:00:2020-08-06T19:15:25.3779188-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.3783515-05:00:2020-08-06T19:15:25.3781838-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.3786262-05:00:2020-08-06T19:15:25.3784747-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.3788910-05:00:2020-08-06T19:15:25.3787437-05:00:Thread#0:T:        
+2020-08-06T19:15:25.3791485-05:00:2020-08-06T19:15:25.3790094-05:00:Thread#0:T:        [Given(@"tengo el perfil de docente")]
+2020-08-06T19:15:25.3794484-05:00:2020-08-06T19:15:25.3792648-05:00:Thread#0:T:        public void DadoTengoElPerfilDeDocente()
+2020-08-06T19:15:25.3797336-05:00:2020-08-06T19:15:25.3795833-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.3800035-05:00:2020-08-06T19:15:25.3798531-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.3802669-05:00:2020-08-06T19:15:25.3801281-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.3805395-05:00:2020-08-06T19:15:25.3803860-05:00:Thread#0:T:        
+2020-08-06T19:15:25.3808393-05:00:2020-08-06T19:15:25.3806771-05:00:Thread#0:T:        [Given(@"el estudiante es ""(.*)""")]
+2020-08-06T19:15:25.3811204-05:00:2020-08-06T19:15:25.3809820-05:00:Thread#0:T:        public void DadoElEstudianteEs(string paul0)
+2020-08-06T19:15:25.3814321-05:00:2020-08-06T19:15:25.3812410-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.3817259-05:00:2020-08-06T19:15:25.3815596-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.3820025-05:00:2020-08-06T19:15:25.3818460-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.3823003-05:00:2020-08-06T19:15:25.3821742-05:00:Thread#0:T:        
+2020-08-06T19:15:25.3826232-05:00:2020-08-06T19:15:25.3824520-05:00:Thread#0:T:        [Given(@"la nota es (.*)")]
+2020-08-06T19:15:25.3829318-05:00:2020-08-06T19:15:25.3827995-05:00:Thread#0:T:        public void DadoLaNotaEs(int p0)
+2020-08-06T19:15:25.3831975-05:00:2020-08-06T19:15:25.3830679-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.3835129-05:00:2020-08-06T19:15:25.3833440-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.3838408-05:00:2020-08-06T19:15:25.3836604-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.3841249-05:00:2020-08-06T19:15:25.3839696-05:00:Thread#0:T:        
+2020-08-06T19:15:25.3844269-05:00:2020-08-06T19:15:25.3842909-05:00:Thread#0:T:        [When(@"aprueba")]
+2020-08-06T19:15:25.3846775-05:00:2020-08-06T19:15:25.3845501-05:00:Thread#0:T:        public void CuandoAprueba()
+2020-08-06T19:15:25.3849920-05:00:2020-08-06T19:15:25.3848213-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.3853541-05:00:2020-08-06T19:15:25.3851698-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.3858340-05:00:2020-08-06T19:15:25.3856302-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.3861365-05:00:2020-08-06T19:15:25.3859774-05:00:Thread#0:T:        
+2020-08-06T19:15:25.3864476-05:00:2020-08-06T19:15:25.3862716-05:00:Thread#0:T:        [Then(@"el estudiante  es promovido")]
+2020-08-06T19:15:25.3867749-05:00:2020-08-06T19:15:25.3866241-05:00:Thread#0:T:        public void EntoncesElEstudianteEsPromovido()
+2020-08-06T19:15:25.3870808-05:00:2020-08-06T19:15:25.3869197-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.3873888-05:00:2020-08-06T19:15:25.3872402-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.3877204-05:00:2020-08-06T19:15:25.3875711-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.3880153-05:00:2020-08-06T19:15:25.3878773-05:00:Thread#0:T:    }
+2020-08-06T19:15:25.3883013-05:00:2020-08-06T19:15:25.3881753-05:00:Thread#0:T:}
+2020-08-06T19:15:25.3961221-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-06T19:15:25.3961745-05:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-08-06T19:15:25.3961804-05:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-08-06T19:15:25.3962457-05:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-06T19:15:25.3962535-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-08-06T19:15:25.3962549-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-08-06T19:15:25.3962567-05:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-08-06T19:15:25.3962881-05:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-08-06T19:15:25.3963290-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-06T19:15:25.4418797-05:00:Thread#0: Test #4/0 is finished on thread #0 as Pending within 0,2579356 seconds
+2020-08-06T19:15:25.4665102-05:00:Thread#0: Test #5/0 is started on thread #0
+2020-08-06T19:15:25.4685567-05:00:2020-08-06T19:15:25.4682064-05:00:Thread#0:B:Dado que que estoy logeado
+2020-08-06T19:15:25.4706395-05:00:2020-08-06T19:15:25.4702931-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.4710685-05:00:2020-08-06T19:15:25.4708942-05:00:Thread#0:T:        [Given(@"que que estoy logeado")]
+2020-08-06T19:15:25.4714065-05:00:2020-08-06T19:15:25.4712243-05:00:Thread#0:T:        public void DadoQueQueEstoyLogeado()
+2020-08-06T19:15:25.4717363-05:00:2020-08-06T19:15:25.4715692-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.4720553-05:00:2020-08-06T19:15:25.4718838-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.4723957-05:00:2020-08-06T19:15:25.4722130-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.4728751-05:00:2020-08-06T19:15:25.4726866-05:00:Thread#0:B:Y tengo el perfil de docente
+2020-08-06T19:15:25.4756499-05:00:2020-08-06T19:15:25.4752843-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.4760758-05:00:2020-08-06T19:15:25.4758842-05:00:Thread#0:T:        [Given(@"tengo el perfil de docente")]
+2020-08-06T19:15:25.4764193-05:00:2020-08-06T19:15:25.4762277-05:00:Thread#0:T:        public void DadoTengoElPerfilDeDocente()
+2020-08-06T19:15:25.4767476-05:00:2020-08-06T19:15:25.4765736-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.4770620-05:00:2020-08-06T19:15:25.4769104-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.4773617-05:00:2020-08-06T19:15:25.4771969-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.4777871-05:00:2020-08-06T19:15:25.4776184-05:00:Thread#0:B:Y el estudiante es "Paul"
+2020-08-06T19:15:25.4798841-05:00:2020-08-06T19:15:25.4795032-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.4802782-05:00:2020-08-06T19:15:25.4800877-05:00:Thread#0:T:        [Given(@"el estudiante es ""(.*)""")]
+2020-08-06T19:15:25.4806526-05:00:2020-08-06T19:15:25.4804764-05:00:Thread#0:T:        public void DadoElEstudianteEs(string paul0)
+2020-08-06T19:15:25.4809699-05:00:2020-08-06T19:15:25.4808000-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.4813080-05:00:2020-08-06T19:15:25.4811457-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.4815970-05:00:2020-08-06T19:15:25.4814463-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.4819977-05:00:2020-08-06T19:15:25.4818340-05:00:Thread#0:B:Y la nota es 6
+2020-08-06T19:15:25.4837526-05:00:2020-08-06T19:15:25.4835242-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.4840464-05:00:2020-08-06T19:15:25.4839142-05:00:Thread#0:T:        [Given(@"la nota es (.*)")]
+2020-08-06T19:15:25.4843535-05:00:2020-08-06T19:15:25.4842268-05:00:Thread#0:T:        public void DadoLaNotaEs(int p0)
+2020-08-06T19:15:25.4846936-05:00:2020-08-06T19:15:25.4845013-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.4849858-05:00:2020-08-06T19:15:25.4848566-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.4852960-05:00:2020-08-06T19:15:25.4851282-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.4857271-05:00:2020-08-06T19:15:25.4855626-05:00:Thread#0:B:Cuando no aprueba
+2020-08-06T19:15:25.4874263-05:00:2020-08-06T19:15:25.4872176-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.4877409-05:00:2020-08-06T19:15:25.4876020-05:00:Thread#0:T:        [When(@"no aprueba")]
+2020-08-06T19:15:25.4880621-05:00:2020-08-06T19:15:25.4878963-05:00:Thread#0:T:        public void CuandoNoAprueba()
+2020-08-06T19:15:25.4883550-05:00:2020-08-06T19:15:25.4882068-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.4886629-05:00:2020-08-06T19:15:25.4884967-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.4889751-05:00:2020-08-06T19:15:25.4888240-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.4894314-05:00:2020-08-06T19:15:25.4892462-05:00:Thread#0:B:Entonces el estudiante no es promovido
+2020-08-06T19:15:25.4919299-05:00:2020-08-06T19:15:25.4915626-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.4923428-05:00:2020-08-06T19:15:25.4921411-05:00:Thread#0:T:        [Then(@"el estudiante no es promovido")]
+2020-08-06T19:15:25.4927051-05:00:2020-08-06T19:15:25.4925271-05:00:Thread#0:T:        public void EntoncesElEstudianteNoEsPromovido()
+2020-08-06T19:15:25.4929885-05:00:2020-08-06T19:15:25.4928570-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.4932987-05:00:2020-08-06T19:15:25.4931283-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.4936296-05:00:2020-08-06T19:15:25.4934656-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5155966-05:00:2020-08-06T19:15:25.5152191-05:00:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2020-08-06T19:15:25.5160208-05:00:2020-08-06T19:15:25.5158116-05:00:Thread#0:T:using System;
+2020-08-06T19:15:25.5163753-05:00:2020-08-06T19:15:25.5161905-05:00:Thread#0:T:using TechTalk.SpecFlow;
+2020-08-06T19:15:25.5167249-05:00:2020-08-06T19:15:25.5165477-05:00:Thread#0:T:namespace MyNamespace
+2020-08-06T19:15:25.5170605-05:00:2020-08-06T19:15:25.5168837-05:00:Thread#0:T:{
+2020-08-06T19:15:25.5173705-05:00:2020-08-06T19:15:25.5172027-05:00:Thread#0:T:    [Binding]
+2020-08-06T19:15:25.5176797-05:00:2020-08-06T19:15:25.5175411-05:00:Thread#0:T:    public class StepDefinitions
+2020-08-06T19:15:25.5179338-05:00:2020-08-06T19:15:25.5178078-05:00:Thread#0:T:    {
+2020-08-06T19:15:25.5184092-05:00:2020-08-06T19:15:25.5182261-05:00:Thread#0:T:        private readonly ScenarioContext _scenarioContext;
+2020-08-06T19:15:25.5187587-05:00:2020-08-06T19:15:25.5185665-05:00:Thread#0:T:        public StepDefinitions(ScenarioContext scenarioContext)
+2020-08-06T19:15:25.5190844-05:00:2020-08-06T19:15:25.5189106-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5193869-05:00:2020-08-06T19:15:25.5192463-05:00:Thread#0:T:            _scenarioContext = scenarioContext;
+2020-08-06T19:15:25.5196976-05:00:2020-08-06T19:15:25.5195304-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5200072-05:00:2020-08-06T19:15:25.5198709-05:00:Thread#0:T:        [Given(@"que que estoy logeado")]
+2020-08-06T19:15:25.5203051-05:00:2020-08-06T19:15:25.5201401-05:00:Thread#0:T:        public void DadoQueQueEstoyLogeado()
+2020-08-06T19:15:25.5206376-05:00:2020-08-06T19:15:25.5204602-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5209072-05:00:2020-08-06T19:15:25.5207746-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.5211558-05:00:2020-08-06T19:15:25.5210384-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5214154-05:00:2020-08-06T19:15:25.5212833-05:00:Thread#0:T:        
+2020-08-06T19:15:25.5216660-05:00:2020-08-06T19:15:25.5215437-05:00:Thread#0:T:        [Given(@"tengo el perfil de docente")]
+2020-08-06T19:15:25.5219106-05:00:2020-08-06T19:15:25.5217943-05:00:Thread#0:T:        public void DadoTengoElPerfilDeDocente()
+2020-08-06T19:15:25.5221741-05:00:2020-08-06T19:15:25.5220395-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5225339-05:00:2020-08-06T19:15:25.5223627-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.5228375-05:00:2020-08-06T19:15:25.5226835-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5231061-05:00:2020-08-06T19:15:25.5229608-05:00:Thread#0:T:        
+2020-08-06T19:15:25.5234308-05:00:2020-08-06T19:15:25.5232467-05:00:Thread#0:T:        [Given(@"el estudiante es ""(.*)""")]
+2020-08-06T19:15:25.5237520-05:00:2020-08-06T19:15:25.5235818-05:00:Thread#0:T:        public void DadoElEstudianteEs(string paul0)
+2020-08-06T19:15:25.5241044-05:00:2020-08-06T19:15:25.5239192-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5245244-05:00:2020-08-06T19:15:25.5242544-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.5249552-05:00:2020-08-06T19:15:25.5247196-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5253527-05:00:2020-08-06T19:15:25.5251477-05:00:Thread#0:T:        
+2020-08-06T19:15:25.5256659-05:00:2020-08-06T19:15:25.5254978-05:00:Thread#0:T:        [Given(@"la nota es (.*)")]
+2020-08-06T19:15:25.5259512-05:00:2020-08-06T19:15:25.5257965-05:00:Thread#0:T:        public void DadoLaNotaEs(int p0)
+2020-08-06T19:15:25.5262353-05:00:2020-08-06T19:15:25.5260875-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5265014-05:00:2020-08-06T19:15:25.5263698-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.5267482-05:00:2020-08-06T19:15:25.5266278-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5270054-05:00:2020-08-06T19:15:25.5268771-05:00:Thread#0:T:        
+2020-08-06T19:15:25.5272554-05:00:2020-08-06T19:15:25.5271356-05:00:Thread#0:T:        [When(@"no aprueba")]
+2020-08-06T19:15:25.5276274-05:00:2020-08-06T19:15:25.5274185-05:00:Thread#0:T:        public void CuandoNoAprueba()
+2020-08-06T19:15:25.5279743-05:00:2020-08-06T19:15:25.5278060-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5285417-05:00:2020-08-06T19:15:25.5282802-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.5289320-05:00:2020-08-06T19:15:25.5287058-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5292477-05:00:2020-08-06T19:15:25.5290698-05:00:Thread#0:T:        
+2020-08-06T19:15:25.5295837-05:00:2020-08-06T19:15:25.5294003-05:00:Thread#0:T:        [Then(@"el estudiante no es promovido")]
+2020-08-06T19:15:25.5299243-05:00:2020-08-06T19:15:25.5297460-05:00:Thread#0:T:        public void EntoncesElEstudianteNoEsPromovido()
+2020-08-06T19:15:25.5302515-05:00:2020-08-06T19:15:25.5300604-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5306112-05:00:2020-08-06T19:15:25.5304034-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.5309723-05:00:2020-08-06T19:15:25.5307669-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5313012-05:00:2020-08-06T19:15:25.5311117-05:00:Thread#0:T:    }
+2020-08-06T19:15:25.5315919-05:00:2020-08-06T19:15:25.5314312-05:00:Thread#0:T:}
+2020-08-06T19:15:25.5324473-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-06T19:15:25.5324692-05:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2020-08-06T19:15:25.5324714-05:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2020-08-06T19:15:25.5325848-05:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-06T19:15:25.5325902-05:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2020-08-06T19:15:25.5325916-05:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2020-08-06T19:15:25.5325931-05:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2020-08-06T19:15:25.5326032-05:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2020-08-06T19:15:25.5326097-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-06T19:15:25.5355645-05:00:Thread#0: Test #5/0 is finished on thread #0 as Pending within 0,0689586 seconds
+2020-08-06T19:15:25.5362978-05:00:Thread#0: Test #7/0 is started on thread #0
+2020-08-06T19:15:25.5447355-05:00:2020-08-06T19:15:25.5443762-05:00:Thread#0:B:Dado Que si el primer número 50
+2020-08-06T19:15:25.5468024-05:00:2020-08-06T19:15:25.5465409-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.5471714-05:00:2020-08-06T19:15:25.5469917-05:00:Thread#0:T:        [Given(@"Que si el primer número (.*)")]
+2020-08-06T19:15:25.5474884-05:00:2020-08-06T19:15:25.5473310-05:00:Thread#0:T:        public void DadoQueSiElPrimerNumero(int p0)
+2020-08-06T19:15:25.5477875-05:00:2020-08-06T19:15:25.5476332-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5480635-05:00:2020-08-06T19:15:25.5479251-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.5484087-05:00:2020-08-06T19:15:25.5482027-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5488161-05:00:2020-08-06T19:15:25.5486552-05:00:Thread#0:B:Y Que el segundo numero es 70
+2020-08-06T19:15:25.5514350-05:00:2020-08-06T19:15:25.5512113-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.5517575-05:00:2020-08-06T19:15:25.5516041-05:00:Thread#0:T:        [Given(@"Que el segundo numero es (.*)")]
+2020-08-06T19:15:25.5520481-05:00:2020-08-06T19:15:25.5519004-05:00:Thread#0:T:        public void DadoQueElSegundoNumeroEs(int p0)
+2020-08-06T19:15:25.5523263-05:00:2020-08-06T19:15:25.5521929-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5526054-05:00:2020-08-06T19:15:25.5524667-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.5528820-05:00:2020-08-06T19:15:25.5527412-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5532327-05:00:2020-08-06T19:15:25.5531015-05:00:Thread#0:B:Cuando los dos numerows son sumados
+2020-08-06T19:15:25.5551256-05:00:2020-08-06T19:15:25.5549401-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.5555183-05:00:2020-08-06T19:15:25.5553581-05:00:Thread#0:T:        [When(@"los dos numerows son sumados")]
+2020-08-06T19:15:25.5559436-05:00:2020-08-06T19:15:25.5557459-05:00:Thread#0:T:        public void CuandoLosDosNumerowsSonSumados()
+2020-08-06T19:15:25.5562805-05:00:2020-08-06T19:15:25.5561067-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5566037-05:00:2020-08-06T19:15:25.5564328-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.5569718-05:00:2020-08-06T19:15:25.5567810-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5575281-05:00:2020-08-06T19:15:25.5572762-05:00:Thread#0:B:Entonces el resultado es 120
+2020-08-06T19:15:25.5599269-05:00:2020-08-06T19:15:25.5596326-05:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-08-06T19:15:25.5603378-05:00:2020-08-06T19:15:25.5601397-05:00:Thread#0:T:        [Then(@"el resultado es (.*)")]
+2020-08-06T19:15:25.5606499-05:00:2020-08-06T19:15:25.5604972-05:00:Thread#0:T:        public void EntoncesElResultadoEs(int p0)
+2020-08-06T19:15:25.5609672-05:00:2020-08-06T19:15:25.5608067-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5612436-05:00:2020-08-06T19:15:25.5611127-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.5615650-05:00:2020-08-06T19:15:25.5613921-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5797865-05:00:2020-08-06T19:15:25.5794787-05:00:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2020-08-06T19:15:25.5802018-05:00:2020-08-06T19:15:25.5800049-05:00:Thread#0:T:using System;
+2020-08-06T19:15:25.5805288-05:00:2020-08-06T19:15:25.5803757-05:00:Thread#0:T:using TechTalk.SpecFlow;
+2020-08-06T19:15:25.5808382-05:00:2020-08-06T19:15:25.5806745-05:00:Thread#0:T:namespace MyNamespace
+2020-08-06T19:15:25.5811155-05:00:2020-08-06T19:15:25.5809814-05:00:Thread#0:T:{
+2020-08-06T19:15:25.5814057-05:00:2020-08-06T19:15:25.5812516-05:00:Thread#0:T:    [Binding]
+2020-08-06T19:15:25.5816852-05:00:2020-08-06T19:15:25.5815421-05:00:Thread#0:T:    public class StepDefinitions
+2020-08-06T19:15:25.5819583-05:00:2020-08-06T19:15:25.5818138-05:00:Thread#0:T:    {
+2020-08-06T19:15:25.5822228-05:00:2020-08-06T19:15:25.5820947-05:00:Thread#0:T:        private readonly ScenarioContext _scenarioContext;
+2020-08-06T19:15:25.5825037-05:00:2020-08-06T19:15:25.5823592-05:00:Thread#0:T:        public StepDefinitions(ScenarioContext scenarioContext)
+2020-08-06T19:15:25.5827712-05:00:2020-08-06T19:15:25.5826366-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5830289-05:00:2020-08-06T19:15:25.5828983-05:00:Thread#0:T:            _scenarioContext = scenarioContext;
+2020-08-06T19:15:25.5832841-05:00:2020-08-06T19:15:25.5831562-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5835387-05:00:2020-08-06T19:15:25.5834150-05:00:Thread#0:T:        [Given(@"Que si el primer número (.*)")]
+2020-08-06T19:15:25.5837878-05:00:2020-08-06T19:15:25.5836671-05:00:Thread#0:T:        public void DadoQueSiElPrimerNumero(int p0)
+2020-08-06T19:15:25.5840464-05:00:2020-08-06T19:15:25.5839171-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5843076-05:00:2020-08-06T19:15:25.5841860-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.5845823-05:00:2020-08-06T19:15:25.5844523-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5848368-05:00:2020-08-06T19:15:25.5847088-05:00:Thread#0:T:        
+2020-08-06T19:15:25.5851259-05:00:2020-08-06T19:15:25.5849846-05:00:Thread#0:T:        [Given(@"Que el segundo numero es (.*)")]
+2020-08-06T19:15:25.5853784-05:00:2020-08-06T19:15:25.5852497-05:00:Thread#0:T:        public void DadoQueElSegundoNumeroEs(int p0)
+2020-08-06T19:15:25.5856705-05:00:2020-08-06T19:15:25.5855546-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5859100-05:00:2020-08-06T19:15:25.5857938-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.5861689-05:00:2020-08-06T19:15:25.5860385-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5864202-05:00:2020-08-06T19:15:25.5862967-05:00:Thread#0:T:        
+2020-08-06T19:15:25.5866793-05:00:2020-08-06T19:15:25.5865417-05:00:Thread#0:T:        [When(@"los dos numerows son sumados")]
+2020-08-06T19:15:25.5869250-05:00:2020-08-06T19:15:25.5868087-05:00:Thread#0:T:        public void CuandoLosDosNumerowsSonSumados()
+2020-08-06T19:15:25.5871728-05:00:2020-08-06T19:15:25.5870475-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5874197-05:00:2020-08-06T19:15:25.5873044-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.5876545-05:00:2020-08-06T19:15:25.5875400-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5879085-05:00:2020-08-06T19:15:25.5877806-05:00:Thread#0:T:        
+2020-08-06T19:15:25.5881600-05:00:2020-08-06T19:15:25.5880328-05:00:Thread#0:T:        [Then(@"el resultado es (.*)")]
+2020-08-06T19:15:25.5884045-05:00:2020-08-06T19:15:25.5882854-05:00:Thread#0:T:        public void EntoncesElResultadoEs(int p0)
+2020-08-06T19:15:25.5886776-05:00:2020-08-06T19:15:25.5885303-05:00:Thread#0:T:        {
+2020-08-06T19:15:25.5889873-05:00:2020-08-06T19:15:25.5888329-05:00:Thread#0:T:            _scenarioContext.Pending();
+2020-08-06T19:15:25.5894402-05:00:2020-08-06T19:15:25.5891697-05:00:Thread#0:T:        }
+2020-08-06T19:15:25.5897856-05:00:2020-08-06T19:15:25.5896062-05:00:Thread#0:T:    }
+2020-08-06T19:15:25.5901473-05:00:2020-08-06T19:15:25.5899356-05:00:Thread#0:T:}
+2020-08-06T19:15:25.5912626-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-06T19:15:25.5913697-05:00:Thread#:Scheduler: testitem #9 from normal test queue 
+2020-08-06T19:15:25.5913773-05:00:Thread#0:Scheduler: considering testitem #9 for thread 0
+2020-08-06T19:15:25.5914193-05:00:Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-06T19:15:25.5914251-05:00:Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+2020-08-06T19:15:25.5914274-05:00:Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+2020-08-06T19:15:25.5914303-05:00:Thread#0:Scheduler: using testitem #9 for thread 0
+2020-08-06T19:15:25.5914455-05:00:Thread#0:Scheduler: Test #9 is scheduled for thread
+2020-08-06T19:15:25.5914686-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-06T19:15:25.5938199-05:00:Thread#0: Test #7/0 is finished on thread #0 as Pending within 0,0574932 seconds
+2020-08-06T19:15:25.5943906-05:00:Thread#0: Test #9/0 is started on thread #0
+2020-08-06T19:15:25.5969553-05:00:2020-08-06T19:15:25.5966447-05:00:Thread#0:B:Given the first number is 50
+2020-08-06T19:15:25.6101450-05:00:2020-08-06T19:15:25.6098300-05:00:Assembly resolving Calculos.Negocio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-08-06T19:15:25.6105517-05:00:2020-08-06T19:15:25.6103641-05:00:[AssemblyCache] Trying to resolve 'Calculos.Negocio' from .deps.json file
+2020-08-06T19:15:25.6114152-05:00:2020-08-06T19:15:25.6112256-05:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'Calculos.Negocio', found in dependency map, but unable to resolve a path in ['Calculos.Negocio.dll']
+2020-08-06T19:15:25.6117746-05:00:2020-08-06T19:15:25.6115748-05:00:[AssemblyCache] Could not resolve 'Calculos.Negocio' from .deps.json
+2020-08-06T19:15:25.6141568-05:00:2020-08-06T19:15:25.6130649-05:00:[AssemblyCache] Trying to resolve 'Calculos.Negocio' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:15:25.6149077-05:00:2020-08-06T19:15:25.6147011-05:00:[AssemblyCache] Trying to resolve 'Calculos.Negocio' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Calculos.Negocio.dll'
+2020-08-06T19:15:25.6153724-05:00:2020-08-06T19:15:25.6151785-05:00:[AssemblyCache] Found file 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Calculos.Negocio.dll' for assembly 'Calculos.Negocio'
+2020-08-06T19:15:25.6165579-05:00:2020-08-06T19:15:25.6162406-05:00:[AssemblyCache] Resolved 'Calculos.Negocio' to C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Calculos.Negocio.dll
+2020-08-06T19:15:25.6187367-05:00:2020-08-06T19:15:25.6184753-05:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheFirstNumberIs(50) (0,0s)
+2020-08-06T19:15:25.6193817-05:00:2020-08-06T19:15:25.6191813-05:00:Thread#0:B:And the second number is 70
+2020-08-06T19:15:25.6206543-05:00:2020-08-06T19:15:25.6204056-05:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheSecondNumberIs(70) (0,0s)
+2020-08-06T19:15:25.6210379-05:00:2020-08-06T19:15:25.6208812-05:00:Thread#0:B:When the two numbers are added
+2020-08-06T19:15:25.6228919-05:00:2020-08-06T19:15:25.6225567-05:00:Thread#0:T:done: CalculatorStepDefinitions.WhenTheTwoNumbersAreAdded() (0,0s)
+2020-08-06T19:15:25.6234416-05:00:2020-08-06T19:15:25.6231967-05:00:Thread#0:B:Then the result should be 120
+2020-08-06T19:15:25.6251219-05:00:2020-08-06T19:15:25.6247540-05:00:Assembly resolving nunit.framework, Version=3.12.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2020-08-06T19:15:25.6256036-05:00:2020-08-06T19:15:25.6254120-05:00:[AssemblyCache] Trying to resolve 'nunit.framework' from .deps.json file
+2020-08-06T19:15:25.6261342-05:00:2020-08-06T19:15:25.6259379-05:00:[AssemblyCache] Resolved 'nunit.framework' to 'C:\Users\Christian\.nuget\packages\nunit\3.12.0\lib\netstandard2.0\nunit.framework.dll'
+2020-08-06T19:15:25.6868534-05:00:2020-08-06T19:15:25.6859655-05:00:Thread#0:T:error:   Expected: 0
+2020-08-06T19:15:25.6873889-05:00:2020-08-06T19:15:25.6871471-05:00:Thread#0:T:  But was:  120
+2020-08-06T19:15:25.6908011-05:00:Thread#0:TestItem#9:Scheduler: reschedule tests for testitem #9
+2020-08-06T19:15:25.6917837-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-06T19:15:25.6918447-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #9
+2020-08-06T19:15:25.6918510-05:00:Thread#0:Scheduler: considering testitem #9 for thread 0
+2020-08-06T19:15:25.6918789-05:00:Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-06T19:15:25.6918982-05:00:Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+2020-08-06T19:15:25.6919009-05:00:Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+2020-08-06T19:15:25.6919038-05:00:Thread#0:Scheduler: using testitem #9 for thread 0
+2020-08-06T19:15:25.6919202-05:00:Thread#0:Scheduler: Test #9 is scheduled for thread
+2020-08-06T19:15:25.6919315-05:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2020-08-06T19:15:25.6966412-05:00:Thread#0: Test #9/0 is finished on thread #0 as Failed within 0,1022194 seconds
+2020-08-06T19:15:25.6974645-05:00:Thread#0: Test #9/1 is started on thread #0
+2020-08-06T19:15:25.6985775-05:00:2020-08-06T19:15:25.6981179-05:00:Thread#0:B:Given the first number is 50
+2020-08-06T19:15:25.6994640-05:00:2020-08-06T19:15:25.6991418-05:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheFirstNumberIs(50) (0,0s)
+2020-08-06T19:15:25.7000923-05:00:2020-08-06T19:15:25.6998800-05:00:Thread#0:B:And the second number is 70
+2020-08-06T19:15:25.7006880-05:00:2020-08-06T19:15:25.7004892-05:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheSecondNumberIs(70) (0,0s)
+2020-08-06T19:15:25.7010706-05:00:2020-08-06T19:15:25.7008837-05:00:Thread#0:B:When the two numbers are added
+2020-08-06T19:15:25.7021230-05:00:2020-08-06T19:15:25.7016678-05:00:Thread#0:T:done: CalculatorStepDefinitions.WhenTheTwoNumbersAreAdded() (0,0s)
+2020-08-06T19:15:25.7026765-05:00:2020-08-06T19:15:25.7024363-05:00:Thread#0:B:Then the result should be 120
+2020-08-06T19:15:25.7078177-05:00:2020-08-06T19:15:25.7074219-05:00:Thread#0:T:error: Multiple failures or warnings in test:
+2020-08-06T19:15:25.7083610-05:00:2020-08-06T19:15:25.7081313-05:00:Thread#0:T:  1)   Expected: 0
+2020-08-06T19:15:25.7087083-05:00:2020-08-06T19:15:25.7085183-05:00:Thread#0:T:  But was:  120
+2020-08-06T19:15:25.7090429-05:00:2020-08-06T19:15:25.7088662-05:00:Thread#0:T:  2)   Expected: 0
+2020-08-06T19:15:25.7093720-05:00:2020-08-06T19:15:25.7091951-05:00:Thread#0:T:  But was:  120
+2020-08-06T19:15:25.7116662-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-06T19:15:25.7116872-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #9
+2020-08-06T19:15:25.7116902-05:00:Thread#0:Scheduler: considering testitem #9 for thread 0
+2020-08-06T19:15:25.7117169-05:00:Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-06T19:15:25.7117207-05:00:Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+2020-08-06T19:15:25.7117360-05:00:Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+2020-08-06T19:15:25.7117387-05:00:Thread#0:Scheduler: using testitem #9 for thread 0
+2020-08-06T19:15:25.7117549-05:00:Thread#0:Scheduler: Test #9 is scheduled for thread
+2020-08-06T19:15:25.7117639-05:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2020-08-06T19:15:25.7148829-05:00:Thread#0: Test #9/1 is finished on thread #0 as Failed within 0,0173734 seconds
+2020-08-06T19:15:25.7156594-05:00:Thread#0: Test #9/2 is started on thread #0
+2020-08-06T19:15:25.7166085-05:00:2020-08-06T19:15:25.7163499-05:00:Thread#0:B:Given the first number is 50
+2020-08-06T19:15:25.7173028-05:00:2020-08-06T19:15:25.7169808-05:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheFirstNumberIs(50) (0,0s)
+2020-08-06T19:15:25.7177685-05:00:2020-08-06T19:15:25.7175669-05:00:Thread#0:B:And the second number is 70
+2020-08-06T19:15:25.7182843-05:00:2020-08-06T19:15:25.7180794-05:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheSecondNumberIs(70) (0,0s)
+2020-08-06T19:15:25.7203268-05:00:2020-08-06T19:15:25.7184521-05:00:Thread#0:B:When the two numbers are added
+2020-08-06T19:15:25.7212059-05:00:2020-08-06T19:15:25.7209231-05:00:Thread#0:T:done: CalculatorStepDefinitions.WhenTheTwoNumbersAreAdded() (0,0s)
+2020-08-06T19:15:25.7216533-05:00:2020-08-06T19:15:25.7214366-05:00:Thread#0:B:Then the result should be 120
+2020-08-06T19:15:25.7240339-05:00:2020-08-06T19:15:25.7236579-05:00:Thread#0:T:error: Multiple failures or warnings in test:
+2020-08-06T19:15:25.7245494-05:00:2020-08-06T19:15:25.7242968-05:00:Thread#0:T:  1)   Expected: 0
+2020-08-06T19:15:25.7249642-05:00:2020-08-06T19:15:25.7247555-05:00:Thread#0:T:  But was:  120
+2020-08-06T19:15:25.7253267-05:00:2020-08-06T19:15:25.7251281-05:00:Thread#0:T:  2)   Expected: 0
+2020-08-06T19:15:25.7256658-05:00:2020-08-06T19:15:25.7254781-05:00:Thread#0:T:  But was:  120
+2020-08-06T19:15:25.7260793-05:00:2020-08-06T19:15:25.7258901-05:00:Thread#0:T:  3)   Expected: 0
+2020-08-06T19:15:25.7264028-05:00:2020-08-06T19:15:25.7262371-05:00:Thread#0:T:  But was:  120
+2020-08-06T19:15:25.7282976-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-06T19:15:25.7283192-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-08-06T19:15:25.7283222-05:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-08-06T19:15:25.7283249-05:00:Thread#0:Scheduler: No more tests for thread
+2020-08-06T19:15:25.7321295-05:00:Thread#0: Test #9/2 is finished on thread #0 as Failed within 0,0163343 seconds
+2020-08-06T19:15:25.7483648-05:00:2020-08-06T19:15:25.7476860-05:00:Got Deinitialize Signal
+2020-08-06T19:15:25.7574072-05:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-08-06T19:15:25.7594995-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-08-06T19:15:25.7626466-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-08-06T19:15:25.7662807-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es-ES, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-06T19:15:25.7663095-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-08-06T19:15:25.7663223-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-08-06T19:15:25.7663314-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:15:25.7663474-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-08-06T19:15:25.7664297-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-08-06T19:15:25.7665718-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Christian\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-06T19:15:25.7680424-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-06T19:15:25.7680577-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-06T19:15:25.7682026-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-06T19:15:25.7682953-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-06T19:15:25.7685916-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-06T19:15:25.7686102-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-06T19:15:25.7687056-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-06T19:15:25.7687871-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-06T19:15:25.7690545-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-06T19:15:25.7690600-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-06T19:15:25.7691374-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-06T19:15:25.7692334-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-06T19:15:25.7699481-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-06T19:15:25.7817166-05:00:Thread#-1:Scheduler: get next test for thread -1
+2020-08-06T19:15:25.7817410-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-08-06T19:15:25.7817507-05:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-08-06T19:15:25.7875152-05:00;Thread#12;Info;test run finished
+2020-08-06T19:15:25.7877733-05:00;Thread#12;Info;publishing test results
+2020-08-06T19:15:25.7879911-05:00;Thread#12;Info;Not publishing results.
+2020-08-06T19:15:25.7880945-05:00;Thread#12;Info;test results published
+2020-08-06T19:15:25.7883494-05:00;Thread#12;Info;generating reports
+2020-08-06T19:15:25.9068137-05:00;Thread#12;Info;Starting external report generation process
+2020-08-06T19:15:28.2039908-05:00;Thread#12;Info;Successfully generated reports.
+2020-08-06T19:15:28.2078066-05:00;Thread#12;Info;Successfully generated reports
+2020-08-06T19:15:28.2171838-05:00:Total: 4 (test executions: 6)
+2020-08-06T19:15:28.2196070-05:00:Succeeded: 0
+2020-08-06T19:15:28.2200442-05:00:Ignored: 0
+2020-08-06T19:15:28.2204174-05:00:Pending: 3
+2020-08-06T19:15:28.2204243-05:00:Skipped: 0
+2020-08-06T19:15:28.2207537-05:00:Failed: 1
+2020-08-06T19:15:28.2288087-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-08-06T19:15:28.2289326-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Christian\source\repos\SpecFlowProject1\TestResults\Unnamed project__2020-08-06T191522.html'
+========== End of log file ==========
