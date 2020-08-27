@@ -1,0 +1,5 @@
+C:\Users\Christian\source\repos\Prueba\Prueba.Negocio\bin\Debug\Prueba.Negocio.dll
+C:\Users\Christian\source\repos\Prueba\Prueba.Negocio\bin\Debug\Prueba.Negocio.pdb
+C:\Users\Christian\source\repos\Prueba\Prueba.Negocio\obj\Debug\Prueba.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Prueba\Prueba.Negocio\obj\Debug\Prueba.Negocio.dll
+C:\Users\Christian\source\repos\Prueba\Prueba.Negocio\obj\Debug\Prueba.Negocio.pdb
